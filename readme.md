@@ -1,3 +1,3 @@
 # Menhir project
-this is a java project with GUI
-Menhir is a card game.
+This is an immature student java project with GUI.  
+Menhir is a card game.  
